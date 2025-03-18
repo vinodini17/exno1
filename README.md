@@ -23,8 +23,8 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 ```
-NAME : KAVIYA D
-REG NO : 212223040089
+NAME : VINODINI R
+REG NO : 212223040244
 ```
 
 ```
